@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################################################
 #	Name: SSH Watchdog                                         
-#	Author: Grant Bassham                                      
+#	Author: mgb556                                      
 #	Date:                                                      
 #	Last rev:                                                  
 #	Description: Parses auth logs for failed SSH login         
